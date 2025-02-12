@@ -23,3 +23,11 @@ var myVar = "Hello, world!";
 ```python
 include tkinter
 ```
+
+## Add a task list
+
+We creat a list of task pending to be completed
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
